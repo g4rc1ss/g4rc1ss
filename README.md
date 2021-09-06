@@ -3,16 +3,42 @@ Junior Software Developer mainly worked in .NET
 
 ## My Skills 🚀
 
-![](https://img.shields.io/badge/Csharp-purple?style=for-the-badge&logo=csharp&logoColor=white)
-![](https://img.shields.io/badge/.NET-purple?style=for-the-badge&logo=.net&logoColor=white)
-![](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java&logoColor=blue)
-![](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white)
-![](https://img.shields.io/badge/PHP-8993be?style=for-the-badge&logo=php&logoColor=black)  
+<a href="#">
+  <img src="https://img.shields.io/badge/Csharp-purple?style=for-the-badge&logo=csharp&logoColor=white">
+</a>
 
-![](https://img.shields.io/badge/Javascript-yellow?style=for-the-badge&logo=javascript&logoColor=black)
-![](https://img.shields.io/badge/SQL-blue?style=for-the-badge&logo=sql&logoColor=white)
-![](https://img.shields.io/badge/Powershell-blue?style=for-the-badge&logo=powershell&logoColor=white)
-![](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+<a href="#">
+  <img src="https://img.shields.io/badge/.NET-purple?style=for-the-badge&logo=.net&logoColor=white">
+</a>
+
+<a href="#">
+  <img src="https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java&logoColor=blue">
+</a>
+
+<a href="#">
+  <img src="https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white">
+</a>
+
+<a href="#">
+  <img src="https://img.shields.io/badge/PHP-8993be?style=for-the-badge&logo=php&logoColor=black">
+</a>
+
+</br>
+<a href="#">
+  <img src="https://img.shields.io/badge/Javascript-yellow?style=for-the-badge&logo=javascript&logoColor=black">
+</a>
+
+<a href="#">
+  <img src="https://img.shields.io/badge/SQL-blue?style=for-the-badge&logo=sql&logoColor=white">
+</a>
+
+<a href="#">
+  <img src="https://img.shields.io/badge/Powershell-blue?style=for-the-badge&logo=powershell&logoColor=white">
+</a>
+
+<a href="#">
+  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white">
+</a>
 
 ## Contact 📧
 
