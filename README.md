@@ -1,7 +1,20 @@
 ### Hi, I am Asier García 👋
 Junior Software Developer mainly worked in .NET
 
-## Contact
+## My Skills 🚀
+
+![](https://img.shields.io/badge/Csharp-purple?style=for-the-badge&logo=csharp&logoColor=white)
+![](https://img.shields.io/badge/.NET-purple?style=for-the-badge&logo=.net&logoColor=white)
+![](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java&logoColor=blue)
+![](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white)
+![](https://img.shields.io/badge/PHP-8993be?style=for-the-badge&logo=php&logoColor=black)  
+
+![](https://img.shields.io/badge/Javascript-yellow?style=for-the-badge&logo=javascript&logoColor=black)
+![](https://img.shields.io/badge/SQL-blue?style=for-the-badge&logo=sql&logoColor=white)
+![](https://img.shields.io/badge/Powershell-blue?style=for-the-badge&logo=powershell&logoColor=white)
+![](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+
+## Contact 📧
 
 <p align="center">
   <a href="https://twitter.com/asiergbag">
