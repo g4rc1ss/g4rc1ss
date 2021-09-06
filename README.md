@@ -31,6 +31,9 @@ Junior Software Developer mainly worked in .NET
 <a target="_blank" href="https://github.com/g4rc1ss">
   <img alt="Asier's GitHub Stats" align="center" src="https://github-readme-stats.vercel.app/api?username=g4rc1ss&show_icons=true&theme=vision-friendly-dark&count_private=true" />
 </a>
-<img align="center" margin-top="20px"
+
+<a target="_blank" href="https://github.com/g4rc1ss?tab=repositories">
+  <img align="center" margin-top="20px"
     alt="Asier's most used languages"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=g4rc1ss&show_icons=true&theme=vision-friendly-dark" />
+</a>
