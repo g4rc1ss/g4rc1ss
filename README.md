@@ -33,10 +33,6 @@ Junior Software Developer mainly worked in .NET
 </a>
 
 <a href="#">
-  <img src="https://img.shields.io/badge/Powershell-blue?style=for-the-badge&logo=powershell&logoColor=white">
-</a>
-
-<a href="#">
   <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white">
 </a>
 
@@ -49,8 +45,8 @@ Junior Software Developer mainly worked in .NET
   <a href="https://www.linkedin.com/in/asiergbag/">
     <img src="https://img.shields.io/badge/asiergbag-blue?style=for-the-badge&logo=Linkedin&logoColor=blue&labelColor=white&color=white">
   </a>
-  <a href="mailto:garciss@protonmail.com">
-    <img src="https://img.shields.io/badge/garciss@protonmail.com-0078D4?style=for-the-badge&logo=Protonmail&logoColor=white&labelColor=505061&color=505061">
+  <a href="mailto:asiergarciab@outlook.com">
+    <img src="https://img.shields.io/badge/asiergarciab@outlook.com-0078D4?style=for-the-badge&logo=Microsoft-Outlook&logoColor=white&labelColor=blue&color=blue">
   </a>
 </p>
 
