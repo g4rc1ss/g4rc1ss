@@ -1,5 +1,5 @@
 ### Hi, I am Asier García 👋
-Junior Software Developer mainly worked in .NET
+Software Developer mainly worked in .NET
 
 ## My Skills 🚀
 
