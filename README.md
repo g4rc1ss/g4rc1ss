@@ -3,7 +3,7 @@ Software Developer mainly worked in .NET
 
 ## My Skills 🚀
 
-<a href="#">
+<a href="https://github.com/g4rc1ss?tab=repositories&q=&type=&language=c%23&sort=">
   <img src="https://img.shields.io/badge/Csharp-purple?style=for-the-badge&logo=csharp&logoColor=white">
 </a>
 
@@ -11,15 +11,15 @@ Software Developer mainly worked in .NET
   <img src="https://img.shields.io/badge/.NET-purple?style=for-the-badge&logo=.net&logoColor=white">
 </a>
 
-<a href="#">
+<a href="https://github.com/g4rc1ss?tab=repositories&q=&type=&language=java&sort=">
   <img src="https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java&logoColor=blue">
 </a>
 
-<a href="#">
+<a href="https://github.com/g4rc1ss?tab=repositories&q=&type=&language=python&sort=">
   <img src="https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white">
 </a>
 
-<a href="#">
+<a href="https://github.com/g4rc1ss?tab=repositories&q=&type=&language=php&sort=">
   <img src="https://img.shields.io/badge/PHP-8993be?style=for-the-badge&logo=php&logoColor=black">
 </a>
 
@@ -28,7 +28,11 @@ Software Developer mainly worked in .NET
   <img src="https://img.shields.io/badge/Javascript-yellow?style=for-the-badge&logo=javascript&logoColor=black">
 </a>
 
-<a href="#">
+<a href="https://github.com/g4rc1ss?tab=repositories&q=&type=&language=typescript&sort=">
+  <img src="https://img.shields.io/badge/Typescript-blue?style=for-the-badge&logo=typescript&logoColor=black">
+</a>
+
+<a href="https://github.com/g4rc1ss?tab=repositories&q=&type=&language=sql&sort=">
   <img src="https://img.shields.io/badge/SQL-blue?style=for-the-badge&logo=sql&logoColor=white">
 </a>
 
