@@ -7,31 +7,20 @@ Software Developer mainly worked in .NET
   <img src="https://img.shields.io/badge/Csharp-purple?style=for-the-badge&logo=csharp&logoColor=white">
 </a>
 
-<a href="#">
-  <img src="https://img.shields.io/badge/.NET-purple?style=for-the-badge&logo=.net&logoColor=white">
-</a>
-
-<a href="https://github.com/g4rc1ss?tab=repositories&q=&type=&language=python&sort=">
-  <img src="https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white">
-</a>
-
 <a href="https://github.com/g4rc1ss?tab=repositories&q=&type=&language=typescript&sort=">
   <img src="https://img.shields.io/badge/Typescript-blue?style=for-the-badge&logo=typescript&logoColor=black">
 </a>
 
-<a href="https://github.com/g4rc1ss?tab=repositories&q=&type=&language=sql&sort=">
-  <img src="https://img.shields.io/badge/SQL-blue?style=for-the-badge&logo=sql&logoColor=white">
+<a href="https://github.com/g4rc1ss?tab=repositories&q=&type=&language=rust&sort=">
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white">
 </a>
 
-## Contact 📧
-
+## Contact ✉️
 <p align="center">
-  <a href="https://twitter.com/asiergbag">
-    <img alt="Twitter URL" src="https://img.shields.io/twitter/url?style=for-the-badge&label=%40asiergbag&logo=twitter&logoColor=white&labelColor=blue&color=blue&url=https%3A%2F%2Ftwitter.com%2Fasiergbag">
-  </a>
-  <a href="https://www.linkedin.com/in/asiergbag/">
+  <a target="_blank" href="https://www.linkedin.com/in/asiergbag/">
     <img src="https://img.shields.io/badge/asiergbag-blue?style=for-the-badge&logo=Linkedin&logoColor=blue&labelColor=white&color=white">
   </a>
+  
   <a href="mailto:asiergarciab@outlook.com">
     <img src="https://img.shields.io/badge/asiergarciab@outlook.com-0078D4?style=for-the-badge&logo=Microsoft-Outlook&logoColor=white&labelColor=blue&color=blue">
   </a>
