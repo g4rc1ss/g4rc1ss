@@ -7,10 +7,6 @@ Software Developer mainly worked in .NET
   <img src="https://img.shields.io/badge/Csharp-purple?style=for-the-badge&logo=csharp&logoColor=white">
 </a>
 
-<a href="https://github.com/g4rc1ss?tab=repositories&q=&type=&language=typescript&sort=">
-  <img src="https://img.shields.io/badge/Typescript-blue?style=for-the-badge&logo=typescript&logoColor=black">
-</a>
-
 <a href="https://github.com/g4rc1ss?tab=repositories&q=&type=&language=rust&sort=">
   <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white">
 </a>
